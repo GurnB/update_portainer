@@ -1,5 +1,4 @@
-# update_portainer
-# update Portainer CE:LTS
+# update Portainer ce:lts
 
 # Make the script executable
 
