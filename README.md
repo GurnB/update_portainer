@@ -2,9 +2,9 @@
 
 # Make the script executable
 
-chmod +x update_portainer.sh
+```chmod +x update_portainer.sh
 
 # Run the script from terminal
 
-./update_portainer.sh
+```./update_portainer.sh
 
